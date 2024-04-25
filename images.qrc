@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="images">
+    <file>assets/sanofi_letras.png</file>
+    <file>assets/sanofi_logo.png</file>
+    <file>assets/sanofi_s.png</file>
+  </qresource>
+</RCC>
